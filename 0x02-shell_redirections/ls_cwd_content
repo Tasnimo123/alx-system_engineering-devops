@@ -1,0 +1,75 @@
+total 44
+drwxr-xr-x 2 root root 266 Feb 15 11:12 .
+drwxr-xr-x 8 root root 174 Feb 15 10:39 ..
+-rwxr--r-- 1 root root  31 Feb 15 06:48 0-hello_world
+-rwxr--r-- 1 root root  31 Feb 15 09:28 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 15 09:48 2-hellofile
+-rwxr--r-- 1 root root  28 Feb 15 10:09 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 15 10:18 4-lastlines
+-rwxr--r-- 1 root root  33 Feb 15 10:23 5-firstlines
+-rwxr--r-- 1 root root  50 Feb 15 10:42 6-third_line
+-rwxr--r-- 1 root root 100 Feb 15 10:47 7-file
+-rwxr--r-- 1 root root  37 Feb 15 11:10 8-cwd_state
+-rw-r--r-- 1 root root  12 Feb 15 10:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Feb 15 11:12 ls_cwd_content
+-rw-r--r-- 1 root root   7 Feb 15 06:45 README.md
+total 48
+drwxr-xr-x 2 root root 266 Feb 15 11:12 .
+drwxr-xr-x 8 root root 174 Feb 15 10:39 ..
+-rwxr--r-- 1 root root  31 Feb 15 06:48 0-hello_world
+-rwxr--r-- 1 root root  31 Feb 15 09:28 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb 15 09:48 2-hellofile
+-rwxr--r-- 1 root root  28 Feb 15 10:09 3-twofiles
+-rwxr--r-- 1 root root  29 Feb 15 10:18 4-lastlines
+-rwxr--r-- 1 root root  33 Feb 15 10:23 5-firstlines
+-rwxr--r-- 1 root root  50 Feb 15 10:42 6-third_line
+-rwxr--r-- 1 root root 100 Feb 15 10:47 7-file
+-rwxr--r-- 1 root root  37 Feb 15 11:10 8-cwd_state
+-rw-r--r-- 1 root root  12 Feb 15 10:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 750 Feb 15 11:12 ls_cwd_content
+-rw-r--r-- 1 root root   7 Feb 15 06:45 README.md
+total 48
+drwxr-xr-x 2 root root  266 Feb 15 11:12 .
+drwxr-xr-x 8 root root  174 Feb 15 10:39 ..
+-rwxr--r-- 1 root root   31 Feb 15 06:48 0-hello_world
+-rwxr--r-- 1 root root   31 Feb 15 09:28 1-confused_smiley
+-rwxr--r-- 1 root root   28 Feb 15 09:48 2-hellofile
+-rwxr--r-- 1 root root   28 Feb 15 10:09 3-twofiles
+-rwxr--r-- 1 root root   29 Feb 15 10:18 4-lastlines
+-rwxr--r-- 1 root root   33 Feb 15 10:23 5-firstlines
+-rwxr--r-- 1 root root   50 Feb 15 10:42 6-third_line
+-rwxr--r-- 1 root root  100 Feb 15 10:47 7-file
+-rwxr--r-- 1 root root   37 Feb 15 11:10 8-cwd_state
+-rw-r--r-- 1 root root   12 Feb 15 10:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 1500 Feb 15 11:12 ls_cwd_content
+-rw-r--r-- 1 root root    7 Feb 15 06:45 README.md
+total 48
+drwxr-xr-x 2 root root  266 Feb 15 11:12 .
+drwxr-xr-x 8 root root  174 Feb 15 10:39 ..
+-rwxr--r-- 1 root root   31 Feb 15 06:48 0-hello_world
+-rwxr--r-- 1 root root   31 Feb 15 09:28 1-confused_smiley
+-rwxr--r-- 1 root root   28 Feb 15 09:48 2-hellofile
+-rwxr--r-- 1 root root   28 Feb 15 10:09 3-twofiles
+-rwxr--r-- 1 root root   29 Feb 15 10:18 4-lastlines
+-rwxr--r-- 1 root root   33 Feb 15 10:23 5-firstlines
+-rwxr--r-- 1 root root   50 Feb 15 10:42 6-third_line
+-rwxr--r-- 1 root root  100 Feb 15 10:47 7-file
+-rwxr--r-- 1 root root   37 Feb 15 11:10 8-cwd_state
+-rw-r--r-- 1 root root   12 Feb 15 10:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 2264 Feb 15 11:12 ls_cwd_content
+-rw-r--r-- 1 root root    7 Feb 15 06:45 README.md
+total 48
+drwxr-xr-x 2 root root  266 Feb 15 11:12 .
+drwxr-xr-x 8 root root  174 Feb 15 10:39 ..
+-rwxr--r-- 1 root root   31 Feb 15 06:48 0-hello_world
+-rwxr--r-- 1 root root   31 Feb 15 09:28 1-confused_smiley
+-rwxr--r-- 1 root root   28 Feb 15 09:48 2-hellofile
+-rwxr--r-- 1 root root   28 Feb 15 10:09 3-twofiles
+-rwxr--r-- 1 root root   29 Feb 15 10:18 4-lastlines
+-rwxr--r-- 1 root root   33 Feb 15 10:23 5-firstlines
+-rwxr--r-- 1 root root   50 Feb 15 10:42 6-third_line
+-rwxr--r-- 1 root root  100 Feb 15 10:47 7-file
+-rwxr--r-- 1 root root   37 Feb 15 11:10 8-cwd_state
+-rw-r--r-- 1 root root   12 Feb 15 10:50 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 3028 Feb 15 11:12 ls_cwd_content
+-rw-r--r-- 1 root root    7 Feb 15 06:45 README.md
